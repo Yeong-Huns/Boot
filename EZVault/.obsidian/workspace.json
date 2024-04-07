@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "4c040512a1e8ad90",
+    "type": "split",
+    "children": [
+      {
+        "id": "377234a3b2ec20fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "591d7645f97ef6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian_guide/resorce/Embed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74e2b36507f1bd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian_guide/문법 및 기능.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2607ddfff066364",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67839798084b88b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "461cbcc0c8c38cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53373df6978cd2fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6871073d81ba8550",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49a12f0df1f324ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5110321044922
+  },
+  "right": {
+    "id": "8601f79365cfbe5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7449048f66563470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "451b4cdcef0e2a14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fba477abf9a3847c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d40cac1b69d82774",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f816c952496907e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "무제 파일.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "53373df6978cd2fb",
+  "lastOpenFiles": [
+    "Obsidian_guide/문법 및 기능.md",
+    "무제 파일.md",
+    "Obsidian_guide/GitHub 를 통한 자동 동기화 세팅.md",
+    "Obsidian_guide/옵시디언 전용 문법.md",
+    "Obsidian_guide/resorce/GitHub2.png",
+    "Obsidian_guide/resorce/GitHub3.png",
+    "Obsidian_guide/resorce/GitHub1.png",
+    "Obsidian_guide/resorce/Sync_2.png",
+    "Obsidian_guide/resorce/Embed.md",
+    "Obsidian_guide/resorce/Sync_1.png",
+    "Obsidian_guide/resorce",
+    "Excalidraw/Drawing 2024-04-01 17.08.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-06 15.51.14.excalidraw.md",
+    "Excalidraw/Collection.png",
+    "kosa/6일차/README.md",
+    "Obsidian_guide/콜아웃 모음.md",
+    "PR.md",
+    "Untitled.md",
+    "양식.md",
+    "무제 파일 1.md",
+    "무제 파일 2.md",
+    "무제 파일.canvas",
+    "Spaces",
+    "Obsidian_guide",
+    "Collection.png",
+    "kosa/7일차/README.md",
+    "Pasted image 20240405210824.png",
+    "Untitled 1.md",
+    "kosa/코테.md",
+    "kosa/5일차/README.md",
+    "Excalidraw/Drawing 2024-03-29 21.28.07_0.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-29 21.28.07.excalidraw.md",
+    "kosa/4일차/README.md",
+    "kosa/2일차/static/Pasted image 20240327123504.png",
+    "kosa/3일차/과제001/java/Dog.java.md",
+    "kosa/3일차/과제001/java/Chicken.java.md",
+    "kosa/3일차/과제001/java/Cat.java.md",
+    "kosa/3일차/과제001/java/AnimalDriver.java.md",
+    "kosa/3일차/과제001/java/Animal.java.md",
+    "kosa/3일차/과제001/ClassDiagram.png",
+    "코테/Day5",
+    "kosa/9일차/static",
+    "kosa/9일차",
+    "코테/Day4",
+    "코테/Day3",
+    "코테",
+    "kosa/8일차/static"
+  ]
+}

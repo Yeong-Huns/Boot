@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Monaco",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "color-extend",
+    "custom-background"
+  ]
+}
